@@ -29,7 +29,7 @@ O usuário preenche um formulário com informações sobre renda, gastos fixos, 
 
 ## Melhoria implementada
 
-Melhoria da documentação do projeto com README mais completo e detalhado, descrevendo o fluxo da aplicação, tecnologias utilizadas e funcionalidades implementadas.
+Por estar no início da minha jornada como desenvolvedor, optei por melhorar a documentação do projeto. O README original era técnico e voltado para quem já conhecia o projeto. Reescrevi com linguagem mais clara, organizei as seções e adicionei informações sobre o fluxo principal e o aprendizado obtido durante o desafio.
 
 ## Como executar
 
@@ -60,9 +60,9 @@ pnpm run dev
 
 ## O que aprendi durante o desafio
 
-- Como estruturar um projeto React com TypeScript do zero usando Vite
-- Como criar formulários multi-step com controle de estado
-- Como integrar uma API de IA Generativa (Google Gemini) no frontend
-- Como usar Context API para gerenciar temas claro e escuro
-- Como persistir dados no localStorage
-- A importância de um README bem documentado para projetos no GitHub
+- Aprendi o que é React e como ele organiza interfaces em componentes reutilizáveis
+- Entendi como o TypeScript ajuda a evitar erros antes mesmo de rodar o código
+- Conheci o Vite como ferramenta moderna e rápida para criar projetos React
+- Aprendi o que é uma API e como o frontend se comunica com serviços externos
+- Entendi como a IA Generativa pode ser integrada em aplicações reais do dia a dia
+- Percebi a importância de documentar bem um projeto para que outras pessoas consigam entendê-lo e executá-lo
