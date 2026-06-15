@@ -50,10 +50,19 @@ VITE_GEMINI_API_KEY=sua_chave_aqui
 pnpm run dev
 ```
 
-## O que aprendi
+## Como testar o fluxo principal
 
-- Como estruturar uma aplicação React com TypeScript do zero
+1. Acesse a aplicação no navegador
+2. Preencha o formulário com seus dados financeiros (renda, gastos, dívidas e meta)
+3. Clique em "Gerar simulação"
+4. Aguarde a IA gerar o diagnóstico financeiro personalizado
+5. Veja os insights, sugestões e plano de ação na página de resultados
+
+## O que aprendi durante o desafio
+
+- Como estruturar um projeto React com TypeScript do zero usando Vite
 - Como criar formulários multi-step com controle de estado
-- Como integrar uma API de IA Generativa em uma aplicação frontend
-- Como usar Context API para gerenciar temas
+- Como integrar uma API de IA Generativa (Google Gemini) no frontend
+- Como usar Context API para gerenciar temas claro e escuro
 - Como persistir dados no localStorage
+- A importância de um README bem documentado para projetos no GitHub
